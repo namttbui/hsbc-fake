@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "claims": [
     {
       "id": 1,
-      "title": "hello"
+      "reference": "123456",
+      "status": "Submitted"
     }
   ],
   "profile": {
